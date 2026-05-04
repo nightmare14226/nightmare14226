@@ -36,13 +36,11 @@ My focus:
 
 Built a A unified, production-grade analytics platform combining E-Commerce, Supply Chain, and Financial Intelligence — built on Apache Spark, Airflow, Kafka, PostgreSQL, and FastAPI microservices, all orchestrated with Docker Compose.
 
-### 🏗️ Data Warehouse System
+### 🏗️ Carbon Emissions Intelligence Platform
 
-Designed a scalable warehouse with optimized schema and transformation pipelines using Airflow + SQL.
+🔗 https://github.com/nightmare14226/Verdant | https://verdant.nikhilgiridharan.com
 
-### 🧪 Data Quality & Monitoring
-
-Implemented validation pipelines to ensure data reliability and detect anomalies in production.
+Designed a A production-grade Scope 3 carbon emissions intelligence platform processing 10M+ supplier shipment records, attributing carbon to the SKU level using EPA v1.4.0 emission factors, scoring supplier risk with LightGBM, and surfacing real-time anomalies via WebSocket.
 
 ---
 

@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Bryan Schaefer
+# 👋 Hi, I'm Matthew Gin
 
 🚀 Lead Data Engineer | Real-Time Data Systems | Scalable Pipelines
-📍 Seattle, WA | Open to Remote Opportunities
+📍 Amsterdam, North Holland, Netherlands | Open to Remote Opportunities
 
 ---
 
@@ -30,9 +30,11 @@ My focus:
 
 ## 🔥 Featured Projects
 
-### 📊 Real-Time Data Pipeline
+### 📊 Enterprise Analytics Platform 
 
-Built a streaming pipeline using Kafka + Spark to process millions of events and deliver real-time insights.
+🔗 https://github.com/nightmare14226/Enterprise-Analytics-Platform
+
+Built a A unified, production-grade analytics platform combining E-Commerce, Supply Chain, and Financial Intelligence — built on Apache Spark, Airflow, Kafka, PostgreSQL, and FastAPI microservices, all orchestrated with Docker Compose.
 
 ### 🏗️ Data Warehouse System
 
@@ -55,8 +57,9 @@ Implemented validation pipelines to ensure data reliability and detect anomalies
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 💼 LinkedIn: https://linkedin.com/in/matthew-gin-b04578407
+* 💼 WhatsApp: +1 (339) 399-1206
+* 📧 Email: matthew.gin@hustlexp.app
 
 ---
 

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matthew Gin
 
 🚀 Lead Data Engineer | Real-Time Data Systems | Scalable Pipelines
-📍 Amsterdam, North Holland, Netherlands | Open to Remote Opportunities
+📍 Amsterdam, Netherlands | Open to Remote Opportunities
 
 ---
 
